@@ -38,7 +38,7 @@
   
 - 📄 Know about my experiences [My CV](https://github.com/Lahiru-Madushan-LM/my-portfolio/blob/main/src/assets/Lahiru-Madushan-LM-cv.pdf)
 
-- 📫 How to reach me **damiduprasadjayarathna@gmail.com**
+- 📫 How to reach me **mlahiru317@gmail.com**
   
 
 </td>
